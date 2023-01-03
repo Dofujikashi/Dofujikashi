@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Dofujikashi
-- 👀 I’m interested in Flutter/Dart.
-- 🌱 I’m currently learning Flutter.
+- 👀 I’m a software developer.
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
 
